@@ -1,0 +1,111 @@
+Training file read.
+Creating neural network.....
+Training neural network....
+Network trained
+Reading test data file
+Test file read.
+Running test data now....
+Recognized 2 as 2.0. Corresponding output value was 0.9302534025826177
+Recognized 4 as 4.0. Corresponding output value was 0.9140545432739843
+Recognized 6 as 6.0. Corresponding output value was 0.7798900222038105
+Recognized 8 as 8.0. Corresponding output value was 0.61599599930141
+Recognized 5 as 8.0. Corresponding output value was 0.6968077946313317
+Recognized 5 as 5.0. Corresponding output value was 0.8345289277774455
+Recognized 6 as 6.0. Corresponding output value was 0.9395693292467029
+Recognized 7 as 7.0. Corresponding output value was 0.7758900261451888
+Recognized 2 as 2.0. Corresponding output value was 0.8932728002912116
+Recognized 5 as 5.0. Corresponding output value was 0.8674593034288909
+Recognized 1 as 1.0. Corresponding output value was 0.9520751164290538
+Recognized 0 as 0.0. Corresponding output value was 0.9055456128782706
+Recognized 1 as 1.0. Corresponding output value was 0.9118112379030753
+Recognized 3 as 3.0. Corresponding output value was 0.7112662621209962
+Recognized 5 as 5.0. Corresponding output value was 0.9092643652640063
+Recognized 6 as 6.0. Corresponding output value was 0.952293219870935
+Recognized 7 as 7.0. Corresponding output value was 0.9104156913622576
+Recognized 9 as 9.0. Corresponding output value was 0.8859516311558326
+Recognized 0 as 0.0. Corresponding output value was 0.9291357407820312
+Recognized 9 as 3.0. Corresponding output value was 0.7698663335982137
+Recognized 9 as 9.0. Corresponding output value was 0.7907281724142499
+Recognized 9 as 9.0. Corresponding output value was 0.8499884372426606
+Recognized 6 as 6.0. Corresponding output value was 0.9075796690641705
+Recognized 2 as 2.0. Corresponding output value was 0.9247861000152393
+Recognized 4 as 4.0. Corresponding output value was 0.9069576351719261
+Recognized 3 as 3.0. Corresponding output value was 0.8660699896347296
+Recognized 7 as 7.0. Corresponding output value was 0.9838244539830562
+Recognized 7 as 7.0. Corresponding output value was 0.8908137603547245
+Recognized 2 as 2.0. Corresponding output value was 0.9394077855850108
+Recognized 0 as 0.0. Corresponding output value was 0.6945332233095557
+Recognized 2 as 2.0. Corresponding output value was 0.8333085415836516
+Recognized 1 as 1.0. Corresponding output value was 0.9263479723177253
+Recognized 6 as 6.0. Corresponding output value was 0.9292228032320105
+Recognized 1 as 1.0. Corresponding output value was 0.9049414772449222
+Recognized 2 as 2.0. Corresponding output value was 0.7392732298631901
+Recognized 7 as 7.0. Corresponding output value was 0.9326416737551471
+Recognized 9 as 9.0. Corresponding output value was 0.6485087640597214
+Recognized 7 as 7.0. Corresponding output value was 0.946058387752841
+Recognized 9 as 7.0. Corresponding output value was 0.9188802532704089
+Recognized 7 as 7.0. Corresponding output value was 0.8552940686517575
+Recognized 6 as 6.0. Corresponding output value was 0.9299132941725227
+Recognized 3 as 3.0. Corresponding output value was 0.8514898757502773
+Recognized 5 as 8.0. Corresponding output value was 0.8104194960284805
+Recognized 7 as 7.0. Corresponding output value was 0.8943631483466313
+Recognized 9 as 4.0. Corresponding output value was 0.8184622169400594
+Recognized 0 as 0.0. Corresponding output value was 0.7791625798611592
+Recognized 0 as 0.0. Corresponding output value was 0.9549890564202226
+Recognized 3 as 3.0. Corresponding output value was 0.7534430013610112
+Recognized 7 as 7.0. Corresponding output value was 0.9280951566851223
+Recognized 3 as 8.0. Corresponding output value was 0.6160448661167903
+Recognized 4 as 9.0. Corresponding output value was 0.6465169621308912
+Recognized 3 as 3.0. Corresponding output value was 0.8955154703452767
+Recognized 5 as 5.0. Corresponding output value was 0.6967047949971766
+Recognized 5 as 5.0. Corresponding output value was 0.6886721377977818
+Recognized 4 as 4.0. Corresponding output value was 0.8672341911639715
+Recognized 5 as 5.0. Corresponding output value was 0.6581949147383128
+Recognized 0 as 0.0. Corresponding output value was 0.8784678150211118
+Recognized 4 as 4.0. Corresponding output value was 0.8946395566815715
+Recognized 7 as 7.0. Corresponding output value was 0.9360262446529843
+Recognized 8 as 8.0. Corresponding output value was 0.8410222874223429
+Recognized 3 as 3.0. Corresponding output value was 0.6701876335370566
+Recognized 3 as 8.0. Corresponding output value was 0.8104535577175115
+Recognized 2 as 5.0. Corresponding output value was 0.6055408358462568
+Recognized 8 as 8.0. Corresponding output value was 0.8520889325517567
+Recognized 8 as 8.0. Corresponding output value was 0.7656473759818471
+Recognized 9 as 9.0. Corresponding output value was 0.8046225841160155
+Recognized 4 as 4.0. Corresponding output value was 0.9082696165660276
+Recognized 5 as 5.0. Corresponding output value was 0.9072007174458865
+Recognized 5 as 5.0. Corresponding output value was 0.8838417320554264
+Recognized 7 as 7.0. Corresponding output value was 0.97153366543867
+Recognized 2 as 2.0. Corresponding output value was 0.8570651977310634
+Recognized 3 as 3.0. Corresponding output value was 0.8294300693794346
+Recognized 4 as 9.0. Corresponding output value was 0.7904166884160664
+Recognized 0 as 0.0. Corresponding output value was 0.9661987033353856
+Recognized 5 as 5.0. Corresponding output value was 0.6319689285090537
+Recognized 0 as 8.0. Corresponding output value was 0.604234401164851
+Recognized 1 as 1.0. Corresponding output value was 0.9073837025534066
+Recognized 7 as 7.0. Corresponding output value was 0.898597245261744
+Recognized 4 as 8.0. Corresponding output value was 0.6082485727912637
+Recognized 6 as 6.0. Corresponding output value was 0.8988217663866912
+Recognized 4 as 6.0. Corresponding output value was 0.9213064627533379
+Recognized 2 as 2.0. Corresponding output value was 0.8063864087749585
+Recognized 1 as 1.0. Corresponding output value was 0.9357980315315129
+Recognized 9 as 9.0. Corresponding output value was 0.9181794530862322
+Recognized 1 as 1.0. Corresponding output value was 0.9234457033341592
+Recognized 9 as 7.0. Corresponding output value was 0.7665138138286566
+Recognized 6 as 6.0. Corresponding output value was 0.9165973916501439
+Recognized 5 as 5.0. Corresponding output value was 0.9481422974870923
+Recognized 5 as 5.0. Corresponding output value was 0.8482069343389917
+Recognized 0 as 0.0. Corresponding output value was 0.9344389452149708
+Recognized 8 as 8.0. Corresponding output value was 0.8617894949809055
+Recognized 4 as 4.0. Corresponding output value was 0.890386436845752
+Recognized 3 as 3.0. Corresponding output value was 0.8115870323497515
+Recognized 1 as 1.0. Corresponding output value was 0.9463629975514517
+Recognized 2 as 2.0. Corresponding output value was 0.9104455340697774
+Recognized 1 as 1.0. Corresponding output value was 0.6127927033077204
+Recognized 0 as 0.0. Corresponding output value was 0.9674998969778839
+Recognized 2 as 2.0. Corresponding output value was 0.9395691686684969
+Recognized 3 as 3.0. Corresponding output value was 0.9469600577117521
+Recognized 6 as 6.0. Corresponding output value was 0.9708950877145425
+Recognized 3 as 3.0. Corresponding output value was 0.9059140305408838
+Total test cases : 101
+Total correct recognition : 87
+Accuracy percentage : 86.13861386138613%
